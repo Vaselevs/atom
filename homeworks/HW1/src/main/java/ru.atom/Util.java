@@ -1,8 +1,6 @@
-import java.util.Arrays;
-
 package ru.atom;
 
-
+import java.util.Arrays;
 
 /**
  * In this assignment you need to implement the following util methods.
